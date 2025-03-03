@@ -12,7 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AyushManyan&color=blue)
 
 ### ⏳ WakaTime Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=/@AyushManyan&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/b086ae1e-ab2f-452f-a812-251c9b0b6dad.svg)](https://wakatime.com/@b086ae1e-ab2f-452f-a812-251c9b0b6dad)
 
 ## 🛠 Skills
 
