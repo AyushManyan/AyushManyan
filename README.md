@@ -3,7 +3,7 @@
 ## 🚀 Full Stack Web Developer
 
 - 📍 Based in India
-- 📫 Reach me at [ayushmanyan@gmail.com](mailto:ayushmanyan@gmail.com)
+- 📫 Reach me at [ayushmanyan@gmail.com](mailto:ayushmanyan2003@gmail.com)
 - ⚡ Fun fact: I love traveling and coding!
 
 ---
