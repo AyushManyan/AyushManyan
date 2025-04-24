@@ -4,8 +4,8 @@
 
 - 📍 Based in India
 - 📫 Reach me at [ayushmanyan2003@gmail.com](mailto:ayushmanyan2003@gmail.com)
+- 🌐 Portfolio: [ayushmanyan-portfolio.vercel.app](https://ayushmanyan-portfolio.vercel.app/)  
 - ⚡ Fun fact: I love traveling and coding!
-
 ---
 
 ## 🔥 Coding Stats
