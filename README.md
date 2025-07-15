@@ -1,22 +1,30 @@
 # Hi 👋 I am Ayush Manyan
 
-## 🚀 Full Stack Web Developer
+## 🚀 Full Stack Web Developer | Aspiring SDE
 
-- 📍 Based in India
-- 📫 Reach me at [ayushmanyan2003@gmail.com](mailto:ayushmanyan2003@gmail.com)
+- 📍 Based in India  
+- 📫 Reach me at [ayushmanyan2003@gmail.com](mailto:ayushmanyan2003@gmail.com)  
 - 🌐 Portfolio: [ayushmanyan.vercel.app](https://ayushmanyan.vercel.app/)  
 - ⚡ Fun fact: I love traveling and coding!
+
 ---
 
-## 🔥 Coding Stats
+## 🔥 Coding Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=AyushManyan&color=blue)
 
-### ⏳ WakaTime Stats
+### ⏳ WakaTime Stats  
 [![wakatime](https://wakatime.com/badge/user/b086ae1e-ab2f-452f-a812-251c9b0b6dad.svg)](https://wakatime.com/@b086ae1e-ab2f-452f-a812-251c9b0b6dad)
+
+---
+
+## 🧠 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ayush_Manyan?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/u/Ayush_Manyan/)
+
+---
 
 ## 🛠 Skills
 
-### 🚀 Languages & Tools
+### 🚀 Languages & Tools  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -26,21 +34,22 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-## 🌍 Socials
+---
+
+## 🌍 Socials  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-manyan/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AyushManyan)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ayushmanyan)
 
-
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyushManyan&theme=radical&hide_border=true)
+## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyushManyan&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushManyan&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🏆 My GitHub Rank
+## 🏆 My GitHub Rank  
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushManyan&theme=radical)
 
 ---
